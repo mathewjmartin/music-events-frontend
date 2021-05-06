@@ -21,8 +21,8 @@ export default function Header() {
             </Link>
           </li>
           <li>
-            <Link href="/events">
-              <a>Blog</a>
+            <Link href="/events/add">
+              <a>Add Event</a>
             </Link>
           </li>
           <li>
